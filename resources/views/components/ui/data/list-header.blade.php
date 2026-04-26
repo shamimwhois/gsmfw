@@ -1,0 +1,1 @@
+<div class="ui-list-header">{{ $slot }}</div>

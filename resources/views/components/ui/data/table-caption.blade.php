@@ -1,0 +1,1 @@
+<div class="ui-table-caption">{{ $slot }}</div>

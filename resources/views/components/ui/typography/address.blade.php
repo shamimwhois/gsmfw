@@ -1,0 +1,1 @@
+<address class="ui-address">{{ $slot }}</address>

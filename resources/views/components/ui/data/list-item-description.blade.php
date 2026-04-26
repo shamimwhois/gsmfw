@@ -1,0 +1,1 @@
+<div class="ui-list-item-description">{{ $slot }}</div>

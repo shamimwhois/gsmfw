@@ -1,0 +1,1 @@
+<div class="ui-avatar-set">{{ $slot }}</div>

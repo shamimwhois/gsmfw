@@ -1,0 +1,1 @@
+<input type="search" class="ui-input-search-field" />

@@ -1,0 +1,5 @@
+@props(['size' => 'md', 'class' => ''])
+
+<svg xmlns="http://www.w3.org/2000/svg" width="{{ $size }}" height="{{ $size }}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon-fingerprint {{ $class }}">
+    <path d="M2 12C2 8.5 4.5 6 7 6c3 0 5 2.5 5 5 0 3.5-2 5-5 5-4 0-5-2.5-5-5 0-3.5 1.5-5 5-5 1.5 0 2.5.5 2.5.5"/><path d="M8 17c1.5 1.5 4.5 1.5 6 0"/><path d="M12 13c2 2 5 2 7 0"/><path d="M14 17c3 3 7 3 9 0"/>
+</svg>

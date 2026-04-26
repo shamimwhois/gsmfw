@@ -1,0 +1,1 @@
+<div class="ui-dropdown-divider">{{ $slot }}</div>

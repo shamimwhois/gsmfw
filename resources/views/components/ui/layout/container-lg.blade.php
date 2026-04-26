@@ -1,0 +1,1 @@
+<div class="ui-container-lg">{{ $slot }}</div>

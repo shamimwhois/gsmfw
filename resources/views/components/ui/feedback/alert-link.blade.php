@@ -1,0 +1,2 @@
+@props(['title' => null, 'size' => 'md']) @php $s = match($size) { 'sm' => '-sm', 'lg' => '-lg', default => '-md' }; @endphp
+<div class="ui-alert-link{{ $s }}">@if($title)<span class="ui-alert-link-title">{{ $title }}</span>@endif{{ $slot }}</div>

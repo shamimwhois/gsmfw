@@ -1,0 +1,1 @@
+<strong class="ui-strong">{{ $slot }}</strong>

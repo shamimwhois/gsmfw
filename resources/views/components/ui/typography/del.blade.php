@@ -1,0 +1,1 @@
+<del class="ui-del">{{ $slot }}</del>

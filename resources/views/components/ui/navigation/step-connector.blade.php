@@ -1,0 +1,1 @@
+<div class="ui-step-connector">{{ $slot }}</div>

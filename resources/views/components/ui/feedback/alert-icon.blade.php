@@ -1,0 +1,1 @@
+<div class="ui-alert-icon">{{ $slot }}</div>

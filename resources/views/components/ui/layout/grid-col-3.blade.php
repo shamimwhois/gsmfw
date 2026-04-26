@@ -1,0 +1,1 @@
+<div class="ui-grid-col-3">{{ $slot }}</div>

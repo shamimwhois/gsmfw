@@ -1,0 +1,1 @@
+<ins class="ui-ins">{{ $slot }}</ins>

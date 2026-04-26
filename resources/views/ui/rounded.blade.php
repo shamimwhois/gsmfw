@@ -1,0 +1,9 @@
+@props(['size' => 'md'])
+
+@php
+$sizeClass = match($size) { 'sm' => 'rounded-sm', 'md' => 'rounded-md', 'lg' => 'rounded-lg', 'xl' => 'rounded-xl', '2xl' => 'rounded-2xl', 'full' => 'rounded-full', default => 'rounded-md' };
+@endphp
+
+<div class="ui-rounded {{ $sizeClass }}" {{ $attributes }}>
+    {{ $slot }}
+</div>

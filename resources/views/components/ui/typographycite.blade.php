@@ -1,0 +1,1 @@
+<cite class="ui-cite">{{ $slot }}</cite>

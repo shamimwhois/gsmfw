@@ -1,0 +1,1 @@
+<kbd class="ui-kbd">{{ $slot }}</kbd>

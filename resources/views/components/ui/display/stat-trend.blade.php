@@ -1,0 +1,2 @@
+@props(['variant' => 'default']) @php $v = match($variant) { 'success' => '-success', 'error' => '-error', 'warning' => '-warning', default => '' }; @endphp
+<div class="ui-stat-trend{{ $v }}">{{ $slot }}</div>

@@ -1,0 +1,1 @@
+<div class="ui-list-divider">{{ $slot }}</div>

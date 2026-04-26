@@ -1,0 +1,1 @@
+<div class="ui-form-inline">{{ $slot }}</div>

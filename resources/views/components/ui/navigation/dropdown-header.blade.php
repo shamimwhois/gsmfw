@@ -1,0 +1,1 @@
+<div class="ui-dropdown-header">{{ $slot }}</div>

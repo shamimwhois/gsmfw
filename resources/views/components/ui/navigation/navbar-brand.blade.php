@@ -1,0 +1,1 @@
+<div class="ui-navbar-brand">{{ $slot }}</div>

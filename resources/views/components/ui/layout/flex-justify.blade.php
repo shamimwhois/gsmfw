@@ -1,0 +1,2 @@
+@props(['justify' => 'start']) @php $j = match($justify) { 'center' => '-center', 'end' => '-end', 'between' => '-between', 'around' => '-around', default => '-start' }; @endphp
+<div class="ui-flex-justify{{ $j }}">{{ $slot }}</div>

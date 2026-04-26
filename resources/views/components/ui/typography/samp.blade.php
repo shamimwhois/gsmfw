@@ -1,0 +1,1 @@
+<samp class="ui-samp">{{ $slot }}</samp>

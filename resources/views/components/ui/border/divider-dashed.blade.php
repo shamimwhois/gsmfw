@@ -1,0 +1,1 @@
+<div class="ui-divider-dashed">{{ $slot }}</div>

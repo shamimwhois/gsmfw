@@ -1,0 +1,1 @@
+<pre class="ui-pre">{{ $slot }}</pre>

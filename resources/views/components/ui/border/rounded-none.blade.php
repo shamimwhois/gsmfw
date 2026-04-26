@@ -1,0 +1,1 @@
+<div class="ui-rounded-none">{{ $slot }}</div>

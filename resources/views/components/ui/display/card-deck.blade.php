@@ -1,0 +1,1 @@
+<div class="ui-card-deck">{{ $slot }}</div>

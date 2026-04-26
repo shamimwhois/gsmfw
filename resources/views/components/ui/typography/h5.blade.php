@@ -1,0 +1,1 @@
+<h5 class="ui-h5">{{ $slot }}</h5>

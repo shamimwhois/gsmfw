@@ -1,0 +1,2 @@
+@props(['align' => 'start']) @php $a = match($align) { 'center' => '-center', 'end' => '-end', 'stretch' => '-stretch', default => '-start' }; @endphp
+<div class="ui-flex-align{{ $a }}">{{ $slot }}</div>

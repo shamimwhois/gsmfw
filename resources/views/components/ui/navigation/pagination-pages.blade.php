@@ -1,0 +1,1 @@
+<div class="ui-pagination-pages">{{ $slot }}</div>

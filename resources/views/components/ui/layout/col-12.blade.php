@@ -1,0 +1,1 @@
+<div class="ui-col-12">{{ $slot }}</div>

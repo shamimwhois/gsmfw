@@ -1,0 +1,1 @@
+<div class="ui-timeline-item">{{ $slot }}</div>

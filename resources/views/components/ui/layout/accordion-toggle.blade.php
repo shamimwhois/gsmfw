@@ -1,0 +1,1 @@
+<div class="ui-accordion-toggle">{{ $slot }}</div>

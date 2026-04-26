@@ -1,0 +1,1 @@
+<div class="ui-radio-input">{{ $slot }}</div>

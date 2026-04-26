@@ -1,0 +1,2 @@
+@props(['type' => 'text']) @php $t = match($type) { 'email' => '-email', 'password' => '-password', 'search' => '-search', 'tel' => '-tel', 'url' => '-url', default => '-text' }; @endphp
+<div class="ui-input-group-field{{ $t }}">{{ $slot }}</div>

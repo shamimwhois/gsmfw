@@ -1,0 +1,1 @@
+<figcaption class="ui-figcaption">{{ $slot }}</figcaption>

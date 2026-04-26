@@ -1,0 +1,1 @@
+<div class="ui-chip-set">{{ $slot }}</div>

@@ -1,0 +1,1 @@
+<div class="ui-col-auto">{{ $slot }}</div>

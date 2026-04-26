@@ -1,0 +1,1 @@
+<div class="ui-tagset">{{ $slot }}</div>

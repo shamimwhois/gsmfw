@@ -1,0 +1,1 @@
+<div class="ui-card-title">{{ $slot }}</div>

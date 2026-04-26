@@ -1,0 +1,1 @@
+<mark class="ui-mark">{{ $slot }}</mark>

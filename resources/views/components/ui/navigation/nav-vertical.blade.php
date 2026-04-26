@@ -1,0 +1,1 @@
+<div class="ui-nav-vertical">{{ $slot }}</div>

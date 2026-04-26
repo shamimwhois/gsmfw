@@ -1,0 +1,1 @@
+<abbr class="ui-abbr" title="{{ $title ?? '' }}">{{ $slot }}</abbr>

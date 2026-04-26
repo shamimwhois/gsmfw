@@ -1,0 +1,1 @@
+<div class="ui-breadcrumb-separator">{{ $slot }}</div>

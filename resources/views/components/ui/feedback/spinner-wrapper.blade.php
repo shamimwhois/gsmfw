@@ -1,0 +1,1 @@
+<div class="ui-spinner-wrapper">{{ $slot }}</div>

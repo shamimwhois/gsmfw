@@ -1,0 +1,1 @@
+<div class="ui-list-search">{{ $slot }}</div>

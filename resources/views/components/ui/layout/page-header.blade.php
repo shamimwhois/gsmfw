@@ -1,0 +1,1 @@
+<div class="ui-page-header">{{ $slot }}</div>

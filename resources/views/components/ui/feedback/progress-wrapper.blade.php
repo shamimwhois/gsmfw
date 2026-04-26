@@ -1,0 +1,1 @@
+<div class="ui-progress-wrapper">{{ $slot }}</div>

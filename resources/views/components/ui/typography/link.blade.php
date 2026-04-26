@@ -1,0 +1,1 @@
+<a class="ui-link" href="{{ $href ?? '#' }}">{{ $slot }}</a>

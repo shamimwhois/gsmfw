@@ -1,0 +1,1 @@
+<div class="ui-stack-vertical">{{ $slot }}</div>

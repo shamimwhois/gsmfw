@@ -1,0 +1,1 @@
+<div class="ui-pin-wrapper">{{ $slot }}</div>

@@ -1,0 +1,1 @@
+<section class="ui-hero-footer">{{ $slot }}</section>

@@ -1,0 +1,1 @@
+<div class="ui-toast-wrapper">{{ $slot }}</div>

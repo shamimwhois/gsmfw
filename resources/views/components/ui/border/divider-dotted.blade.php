@@ -1,0 +1,1 @@
+<div class="ui-divider-dotted">{{ $slot }}</div>

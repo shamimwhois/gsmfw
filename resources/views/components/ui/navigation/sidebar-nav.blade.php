@@ -1,0 +1,1 @@
+<div class="ui-sidebar-nav">{{ $slot }}</div>

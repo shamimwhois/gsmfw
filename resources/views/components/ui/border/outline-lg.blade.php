@@ -1,0 +1,1 @@
+<div class="ui-outline-lg">{{ $slot }}</div>

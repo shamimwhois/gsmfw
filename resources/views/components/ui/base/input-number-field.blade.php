@@ -1,0 +1,1 @@
+<input type="number" class="ui-input-number-field" />

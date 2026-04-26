@@ -1,0 +1,2 @@
+@props(['value' => 0, 'max' => 100, 'size' => 'md']) @php $s = match($size) { 'sm' => '-sm', 'lg' => '-lg', default => '-md' }; @endphp
+<div class="ui-slider{{ $s }}" role="slider" aria-valuenow="{{ $value }}" aria-valuemin="0" aria-valuemax="{{ $max }}">{{ $slot }}</div>

@@ -1,0 +1,1 @@
+<h6 class="ui-h6">{{ $slot }}</h6>

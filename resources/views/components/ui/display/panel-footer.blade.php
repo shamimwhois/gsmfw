@@ -1,0 +1,1 @@
+<div class="ui-panel-footer">{{ $slot }}</div>

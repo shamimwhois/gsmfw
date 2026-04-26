@@ -1,0 +1,2 @@
+@props(['position' => 'top']) @php $p = match($position) { 'bottom' => '-bottom', 'left' => '-left', 'right' => '-right', default => '-top' }; @endphp
+<div class="ui-divider-with-text{{ $p }}">{{ $slot }}</div>

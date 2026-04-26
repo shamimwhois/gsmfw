@@ -1,0 +1,1 @@
+<div class="ui-section-body">{{ $slot }}</div>

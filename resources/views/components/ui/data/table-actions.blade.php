@@ -1,0 +1,1 @@
+<div class="ui-table-actions">{{ $slot }}</div>

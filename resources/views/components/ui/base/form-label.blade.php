@@ -1,0 +1,1 @@
+<div class="ui-form-label">{{ $slot }}</div>

@@ -1,0 +1,1 @@
+<div class="ui-carousel-control-next">{{ $slot }}</div>

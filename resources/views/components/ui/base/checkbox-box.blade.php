@@ -1,0 +1,1 @@
+<div class="ui-checkbox-box">{{ $slot }}</div>

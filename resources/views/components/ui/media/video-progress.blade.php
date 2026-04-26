@@ -1,0 +1,1 @@
+<div class="ui-video-progress">{{ $slot }}</div>

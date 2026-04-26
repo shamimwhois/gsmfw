@@ -1,0 +1,2 @@
+@props(['gap' => 'md', 'size' => 'md']) @php $g = match($gap) { 'none' => '-none', 'sm' => '-sm', 'lg' => '-lg', 'xl' => '-xl', default => '-md' }; $s = match($size) { 'sm' => '-sm', 'lg' => '-lg', default => '-md' }; @endphp
+<div class="ui-flex-col{{ $g }}{{ $s }}">{{ $slot }}</div>

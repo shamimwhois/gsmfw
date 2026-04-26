@@ -1,0 +1,1 @@
+<div class="ui-tree-node">{{ $slot }}</div>
